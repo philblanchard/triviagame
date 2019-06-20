@@ -9,7 +9,7 @@ At the end, your score is displayed.
 There are only 5 questions because I wrote this in one shot over my lunch.
 
 
-# TO PLAY
+# HOW TO PLAY
 
 Playing is simple. 
 Click the answer you think is correct :)
